@@ -15,7 +15,9 @@ public class CoffeeShop {
         ArrayList<String> menu = new ArrayList<String>();
         menu.add("Bagel, 3.50, food");
         menu.add("Hot Chocolate, 3.00, drink");
+        menu.add("Iced coffee, 5.50, drink");
         menu.add("Muffin, 2.50, food");
+        menu.add("cinnamon roll, 5.50, food");
         menu.add("Mocaa, 4.00, drink");
         menu.add("Tea, 2.00, drink");
         menu.add("Croissant, 2.50, food");
